@@ -1,6 +1,6 @@
-# Your Next Great Prototype ![Prerequisite](https://img.shields.io/badge/node-10.13.0-blue.svg) ![Prerequisite](https://img.shields.io/badge/npm-6.4.1-blue.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/1853c133-6744-457e-ace2-251d8f57e57b/deploy-status)](https://app.netlify.com/sites/my-mind-blowing-prototype/deploys)
+# My Mind Blowing Prototype ![Prerequisite](https://img.shields.io/badge/node-10.13.0-blue.svg) ![Prerequisite](https://img.shields.io/badge/npm-6.4.1-blue.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/1853c133-6744-457e-ace2-251d8f57e57b/deploy-status)](https://app.netlify.com/sites/my-mind-blowing-prototype/deploys)
 
-> Your next great prototype description
+> 🤯
 
 ## ✨ Install
 
