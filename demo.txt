@@ -1,0 +1,53 @@
+
+1. Create a demo HTML page
+
+- Add a prototype index title
+- Add an image (https://picsum.photos/400)
+- Move image to `/public` directory (curl -L https://picsum.photos/400 > public/static/img/random.jpg)
+- Add some styles
+
+2. Use Twig to render top stories from NYT
+
+- Set up the template
+- Populate it manually
+- Switch to JSON data files
+
+    curl "https://api.nytimes.com/svc/topstories/v2/home.json?api-key=fTEGQFtCGASZpCEIOFu30HSGGEhJ75ua" | python -m json.tool > src/data/top-stories.json
+
+3. Add a JS dependency for the browser
+
+    https://github.com/mattdesl/no-op
+
+    npm install no-op
+
+    ```js
+    import $ from 'jquery';
+    import 'modernizr';
+    import noop from 'no-op';
+
+    $(() => {
+        $('#noop').on('click', () => {
+            // eslint-disable-next-line
+            console.log(noop, noop());
+            alert('Nothing was done!');
+        });
+    });
+    ```
+
+4. Add a JS dependency for Twig
+
+    https://github.com/iamkun/dayjs
+    npm install --dev dayjs
+
+    See https://www.npmjs.com/package/gulp-twig
+
+    const twig = $.twig({
+    namespaces: { puppy: 'src/templates' },
+    useFileContents: true,
+    functions: [
+        {
+            name: 'dayjs',
+            func: require('dayjs'),
+        },
+        ],
+    });

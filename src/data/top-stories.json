@@ -1,0 +1,2571 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2020-01-10T10:37:10-05:00",
+  "num_results": 35,
+  "results": [
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Trump Backs Away from Further Military Conflict With Iran",
+      "abstract": "The morning after Iranian missiles fell on bases housing American troops in Iraq, the president said no Americans were harmed and Iran now \u201cappears to be standing down.\u201d",
+      "url": "https://www.nytimes.com/2020/01/08/world/middleeast/trump-speech.html",
+      "byline": "By PETER BAKER",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T11:59:18-05:00",
+      "created_date": "2020-01-08T09:51:52-05:00",
+      "published_date": "2020-01-08T09:51:52-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Defense and Military Forces",
+        "United States International Relations",
+        "Targeted Killings"
+      ],
+      "org_facet": ["Defense Department"],
+      "per_facet": ["Trump, Donald J", "Suleimani, Qassim"],
+      "geo_facet": ["Iran", "Iraq", "Middle East"],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/39JiON0"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "At the Edge of a War, U.S. and Iran Appear to Step Back",
+      "abstract": "Initial assessments indicate that no Americans were killed in Iranian strikes, so President Trump may not feel the pressure to punch back.",
+      "url": "https://www.nytimes.com/2020/01/08/world/middleeast/us-iran-war.html",
+      "byline": "By HELENE COOPER and ERIC SCHMITT",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T11:19:21-05:00",
+      "created_date": "2020-01-08T09:59:12-05:00",
+      "published_date": "2020-01-08T09:59:12-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["United States Defense and Military Forces"],
+      "org_facet": [],
+      "per_facet": ["Suleimani, Qassim", "Trump, Donald J"],
+      "geo_facet": ["Iran", "Iraq"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08dc-escalation-sub/08dc-escalation-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American troops deploying to the Middle East from Fort Bragg in North Carolina on Sunday.",
+          "copyright": "Bryan Woolston/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08dc-escalation-sub/08dc-escalation-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American troops deploying to the Middle East from Fort Bragg in North Carolina on Sunday.",
+          "copyright": "Bryan Woolston/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08dc-escalation-sub/merlin_166702284_500c7f29-f550-4d9d-a939-76b0a2e6edba-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American troops deploying to the Middle East from Fort Bragg in North Carolina on Sunday.",
+          "copyright": "Bryan Woolston/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08dc-escalation-sub/08dc-escalation-sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American troops deploying to the Middle East from Fort Bragg in North Carolina on Sunday.",
+          "copyright": "Bryan Woolston/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08dc-escalation-sub/merlin_166702284_500c7f29-f550-4d9d-a939-76b0a2e6edba-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American troops deploying to the Middle East from Fort Bragg in North Carolina on Sunday.",
+          "copyright": "Bryan Woolston/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2R1dkox"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "In Address, Trump Announces New Sanctions vs. Iran: Live Updates",
+      "abstract": "President Trump backed away from further military conflict, citing minimal damage to American assets and no casualties after Iran\u2019s retaliatory strikes on two bases housing troops in Iraq.",
+      "url": "https://www.nytimes.com/2020/01/08/world/middleeast/iran-us-missile-attacks.html",
+      "byline": "By THE NEW YORK TIMES",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T13:11:28-05:00",
+      "created_date": "2020-01-08T00:23:08-05:00",
+      "published_date": "2020-01-08T00:23:08-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Defense and Military Forces",
+        "Aviation Accidents, Safety and Disasters",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J", "Suleimani, Qassim"],
+      "geo_facet": ["Iran"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08IRAN-promo/08IRAN-promo-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump addressing the nation after Iran launched missiles at two military bases housing U.S. troops in Iraq.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08IRAN-promo/08IRAN-promo-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump addressing the nation after Iran launched missiles at two military bases housing U.S. troops in Iraq.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08IRAN-promo/08IRAN-promo-articleInline-v5.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump addressing the nation after Iran launched missiles at two military bases housing U.S. troops in Iraq.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08IRAN-promo/08IRAN-promo-mediumThreeByTwo210-v5.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump addressing the nation after Iran launched missiles at two military bases housing U.S. troops in Iraq.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08IRAN-promo/08IRAN-promo-superJumbo-v5.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump addressing the nation after Iran launched missiles at two military bases housing U.S. troops in Iraq.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2QTAdKw"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Pressed for Details on Suleimani Strike, Trump Administration Gives Few",
+      "abstract": "Administration officials argue that the general was plotting imminent attacks, but Democrats said that the intelligence they have seen was too vague.",
+      "url": "https://www.nytimes.com/2020/01/07/us/politics/trump-soleimani.html",
+      "byline": "By JULIAN E. BARNES, CATIE EDMONDSON, THOMAS GIBBONS-NEFF and RUKMINI CALLIMACHI",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T09:36:00-05:00",
+      "created_date": "2020-01-07T20:23:10-05:00",
+      "published_date": "2020-01-07T20:23:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Defense and Military Forces",
+        "United States International Relations",
+        "United States Politics and Government",
+        "Targeted Killings",
+        "Diplomatic Service, Embassies and Consulates",
+        "Terrorism",
+        "Classified Information and State Secrets",
+        "Espionage and Intelligence Services"
+      ],
+      "org_facet": [
+        "House of Representatives",
+        "Senate",
+        "Democratic Party",
+        "Republican Party",
+        "Central Intelligence Agency",
+        "Defense Department",
+        "Islamic Revolutionary Guards Corps"
+      ],
+      "per_facet": ["Trump, Donald J", "Esper, Mark T", "Haspel, Gina", "Suleimani, Qassim"],
+      "geo_facet": ["Iran", "Iraq"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/us/07dc-intel-1-promo/07dc-intel-1-promo-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The funeral for Maj. Gen. Qassim Suleimani on Wednesday in Kerman, Iran.",
+          "copyright": "Wana News Agency/via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/us/07dc-intel-1-promo/07dc-intel-1-promo-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The funeral for Maj. Gen. Qassim Suleimani on Wednesday in Kerman, Iran.",
+          "copyright": "Wana News Agency/via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/us/07dc-intel-1-promo/07dc-intel-1-promo-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The funeral for Maj. Gen. Qassim Suleimani on Wednesday in Kerman, Iran.",
+          "copyright": "Wana News Agency/via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/us/07dc-intel-1-promo/07dc-intel-1-promo-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The funeral for Maj. Gen. Qassim Suleimani on Wednesday in Kerman, Iran.",
+          "copyright": "Wana News Agency/via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/us/07dc-intel-1-promo/07dc-intel-1-promo-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The funeral for Maj. Gen. Qassim Suleimani on Wednesday in Kerman, Iran.",
+          "copyright": "Wana News Agency/via Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2QQolsA"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Boeing 737 Plane Crash in Iran Prompts Conflicting Statements",
+      "abstract": "The jet went down near Tehran, killing at least 176 people. Though the evidence remained sketchy, aviation experts speculated that the plane could have been attacked.",
+      "url": "https://www.nytimes.com/2020/01/07/world/middleeast/iran-plane-crash-boeing-ukraine.html",
+      "byline": "By ANTON TROIANOVSKI, ANDREW E. KRAMER, DANIEL VICTOR, JAMES GLANZ and NATALIE KITROEFF",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T13:10:28-05:00",
+      "created_date": "2020-01-07T22:50:51-05:00",
+      "published_date": "2020-01-07T22:50:51-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Aviation Accidents, Safety and Disasters", "internal-storyline-no"],
+      "org_facet": ["Boeing Company"],
+      "per_facet": [],
+      "geo_facet": ["Iran", "Kiev (Ukraine)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08xp-ukraine-crash8/08xp-ukraine-crash8-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ukraine International Flight 752 took off from Tehran early morning and crashed within minutes.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08xp-ukraine-crash8/08xp-ukraine-crash8-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ukraine International Flight 752 took off from Tehran early morning and crashed within minutes.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08xp-ukraine-crash8/merlin_166823580_a57eb332-b523-4b54-949b-b99ddbd96a96-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ukraine International Flight 752 took off from Tehran early morning and crashed within minutes.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08xp-ukraine-crash8/08xp-ukraine-crash8-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ukraine International Flight 752 took off from Tehran early morning and crashed within minutes.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08xp-ukraine-crash8/merlin_166823580_a57eb332-b523-4b54-949b-b99ddbd96a96-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ukraine International Flight 752 took off from Tehran early morning and crashed within minutes.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2T1RcNe"
+    },
+    {
+      "section": "World",
+      "subsection": "Canada",
+      "title": "Iranian Crash Claims Victims From at Least Seven Countries",
+      "abstract": "The crash of a Ukrainian Boeing 737-800 reverberated around the world, including in Canada, which lost 63 Canadians.",
+      "url": "https://www.nytimes.com/2020/01/08/world/canada/ukranian-plane-crash-iran.html",
+      "byline": "By DAN BILEFSKY and IAN AUSTEN",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T12:34:46-05:00",
+      "created_date": "2020-01-08T12:14:34-05:00",
+      "published_date": "2020-01-08T12:14:34-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Aviation Accidents, Safety and Disasters"],
+      "org_facet": ["Boeing Company"],
+      "per_facet": [],
+      "geo_facet": ["Canada", "Iran", "Ukraine"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08plane-victims/08plane-victims-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers searching the scene where a plane bound for Ukraine crashed in Shahedshahr, Iran, on Wednesday.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08plane-victims/08plane-victims-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers searching the scene where a plane bound for Ukraine crashed in Shahedshahr, Iran, on Wednesday.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08plane-victims/merlin_166823976_07df3c5d-4164-4aa0-bfe3-75c785b264e1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers searching the scene where a plane bound for Ukraine crashed in Shahedshahr, Iran, on Wednesday.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08plane-victims/merlin_166823976_07df3c5d-4164-4aa0-bfe3-75c785b264e1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers searching the scene where a plane bound for Ukraine crashed in Shahedshahr, Iran, on Wednesday.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08plane-victims/merlin_166823976_07df3c5d-4164-4aa0-bfe3-75c785b264e1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers searching the scene where a plane bound for Ukraine crashed in Shahedshahr, Iran, on Wednesday.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2QW8Uz8"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "The Ukraine Plane Crash in Iran: Black Boxes and Other Questions",
+      "abstract": "Initial statements from Iran and Ukraine were contradictory, and the cause of the crash remains unclear. The plane\u2019s black box could help, but Iranian officials may not turn it over to Boeing.",
+      "url": "https://www.nytimes.com/2020/01/08/world/middleeast/boeing-plane-crash.html",
+      "byline": "By JACEY FORTIN",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T13:06:41-05:00",
+      "created_date": "2020-01-08T12:08:22-05:00",
+      "published_date": "2020-01-08T12:08:22-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Airlines and Airplanes",
+        "Boeing 737 Max Groundings and Safety Concerns (2019)",
+        "Aviation Accidents, Safety and Disasters"
+      ],
+      "org_facet": ["Boeing Company"],
+      "per_facet": [],
+      "geo_facet": ["Tehran (Iran)", "Ukraine", "Iran", "United States"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08xp-plane/08xp-plane-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers searching the scene where a Ukrainian plane crashed in Iran on Wednesday morning.",
+          "copyright": "Ebrahim Noroozi/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08xp-plane/08xp-plane-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers searching the scene where a Ukrainian plane crashed in Iran on Wednesday morning.",
+          "copyright": "Ebrahim Noroozi/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08xp-plane/08xp-plane-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers searching the scene where a Ukrainian plane crashed in Iran on Wednesday morning.",
+          "copyright": "Ebrahim Noroozi/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08xp-plane/08xp-plane-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers searching the scene where a Ukrainian plane crashed in Iran on Wednesday morning.",
+          "copyright": "Ebrahim Noroozi/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08xp-plane/08xp-plane-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers searching the scene where a Ukrainian plane crashed in Iran on Wednesday morning.",
+          "copyright": "Ebrahim Noroozi/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2sY5SlW"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Power Outage Affects Two-Thirds of Puerto Rico After Earthquake",
+      "abstract": "Thousands of Puerto Ricans slept outside, fearing new tremors, after the 6.4-magnitude earthquake that struck the island Tuesday.",
+      "url": "https://www.nytimes.com/2020/01/08/us/puerto-rico-earthquake.html",
+      "byline": "By EDMY AYALA and FRANCES ROBLES",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T12:32:50-05:00",
+      "created_date": "2020-01-08T10:19:02-05:00",
+      "published_date": "2020-01-08T10:19:02-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Electric Light and Power", "Earthquakes", "Hurricane Maria (2017)"],
+      "org_facet": ["Puerto Rico Electric Power Authority"],
+      "per_facet": ["Vazquez Garced, Wanda"],
+      "geo_facet": ["Puerto Rico"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/08puertorico-01alt/08puertorico-01alt-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residents stayed outside the night after an earthquake on Tuesday in Guanica, P.R.",
+          "copyright": "Carlos Giusti/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/08puertorico-01alt/08puertorico-01alt-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residents stayed outside the night after an earthquake on Tuesday in Guanica, P.R.",
+          "copyright": "Carlos Giusti/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/08puertorico-01alt/08puertorico-01alt-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residents stayed outside the night after an earthquake on Tuesday in Guanica, P.R.",
+          "copyright": "Carlos Giusti/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/08puertorico-01alt/08puertorico-01alt-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residents stayed outside the night after an earthquake on Tuesday in Guanica, P.R.",
+          "copyright": "Carlos Giusti/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/08puertorico-01alt/merlin_166815522_b213ba73-577e-4f42-96f6-55c8a5aad6a1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1380,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residents stayed outside the night after an earthquake on Tuesday in Guanica, P.R.",
+          "copyright": "Carlos Giusti/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/303oJIr"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "McConnell Refuses to Negotiate With Pelosi on Impeachment Trial Terms",
+      "abstract": "The top Senate Republican said he had no intention of negotiating with the House speaker over the terms of the impeachment trial.",
+      "url": "https://www.nytimes.com/2020/01/08/us/politics/mcconnell-pelosi-impeachment-trial.html",
+      "byline": "By NICHOLAS FANDOS",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T13:25:48-05:00",
+      "created_date": "2020-01-08T13:13:04-05:00",
+      "published_date": "2020-01-08T13:13:04-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "United States Politics and Government",
+        "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry",
+        "Impeachment"
+      ],
+      "org_facet": ["Democratic Party", "House of Representatives", "Senate"],
+      "per_facet": ["McConnell, Mitch", "Pelosi, Nancy", "Trump, Donald J"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08dc-impeach1/08dc-impeach1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere will be no haggling with the House over Senate procedure,\u201d Senator Mitch McConnell, the majority leader, said.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08dc-impeach1/08dc-impeach1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere will be no haggling with the House over Senate procedure,\u201d Senator Mitch McConnell, the majority leader, said.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08dc-impeach1/08dc-impeach1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere will be no haggling with the House over Senate procedure,\u201d Senator Mitch McConnell, the majority leader, said.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08dc-impeach1/08dc-impeach1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere will be no haggling with the House over Senate procedure,\u201d Senator Mitch McConnell, the majority leader, said.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/us/politics/08dc-impeach1/08dc-impeach1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere will be no haggling with the House over Senate procedure,\u201d Senator Mitch McConnell, the majority leader, said.",
+          "copyright": "Erin Schaff/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/35BKCjb"
+    },
+    {
+      "section": "Travel",
+      "subsection": "",
+      "title": "Would You Work for Nothing at Disney? 10,000 Superfans Applied",
+      "abstract": "Only 14 were selected to be on the Disney Parks Moms Panel (three are dads), and they will spend the next year helping interested parkgoers plan their Disney vacations.",
+      "url": "https://www.nytimes.com/2020/01/08/travel/disney-parks-moms-panel.html",
+      "byline": "By TARIRO MZEZEWA",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T05:27:35-05:00",
+      "created_date": "2020-01-08T05:00:16-05:00",
+      "published_date": "2020-01-08T05:00:16-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Travel and Vacations", "Children and Childhood", "Cruises"],
+      "org_facet": [
+        "Disney, Walt, World (Lake Buena Vista, Fla)",
+        "Walt Disney Company",
+        "Disneyland (Anaheim, Calif)"
+      ],
+      "per_facet": [],
+      "geo_facet": ["Orlando (Fla)", "Anaheim (Calif)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/travel/07disney1/07disney1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 2020 panelists for the Disney Parks Moms Panel in Orlando, Fla., in December.",
+          "copyright": "Tariro Mzezewa/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/travel/07disney1/07disney1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 2020 panelists for the Disney Parks Moms Panel in Orlando, Fla., in December.",
+          "copyright": "Tariro Mzezewa/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/travel/07disney1/07disney1-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 2020 panelists for the Disney Parks Moms Panel in Orlando, Fla., in December.",
+          "copyright": "Tariro Mzezewa/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/travel/07disney1/07disney1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 2020 panelists for the Disney Parks Moms Panel in Orlando, Fla., in December.",
+          "copyright": "Tariro Mzezewa/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/travel/07disney1/07disney1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 2020 panelists for the Disney Parks Moms Panel in Orlando, Fla., in December.",
+          "copyright": "Tariro Mzezewa/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2T3FMIJ"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "The Trump We Did Not Want to See",
+      "abstract": "When are we going to stop trying to rationalize the irrational?",
+      "url": "https://www.nytimes.com/2020/01/08/opinion/trump-iran-soleimani.html",
+      "byline": "By JAMELLE BOUIE",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T10:28:48-05:00",
+      "created_date": "2020-01-08T05:00:17-05:00",
+      "published_date": "2020-01-08T05:00:17-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations",
+        "United States Politics and Government",
+        "Targeted Killings"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Lovecraft, H P", "Suleimani, Qassim", "Trump, Donald J"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/opinion/08bouieWeb/08bouieWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in Florida on Friday.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/opinion/08bouieWeb/08bouieWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in Florida on Friday.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/opinion/08bouieWeb/merlin_166641714_a93e02c1-5a51-4e39-8b1f-f7c0aa7da677-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in Florida on Friday.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/opinion/08bouieWeb/08bouieWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in Florida on Friday.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/opinion/08bouieWeb/merlin_166641714_a93e02c1-5a51-4e39-8b1f-f7c0aa7da677-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1402,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in Florida on Friday.",
+          "copyright": "Eric Thayer for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2s3WVHg"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Why Politicians Get a License to Lie",
+      "abstract": "Newsworthiness is responsibility with an asterisk.",
+      "url": "https://www.nytimes.com/2020/01/07/opinion/facebook-trump-iran.html",
+      "byline": "By CHARLIE WARZEL",
+      "item_type": "Article",
+      "updated_date": "2020-01-07T19:29:29-05:00",
+      "created_date": "2020-01-07T19:29:29-05:00",
+      "published_date": "2020-01-07T19:29:29-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Social Media",
+        "Politics and Government",
+        "Computers and the Internet",
+        "Presidential Election of 2020",
+        "Rumors and Misinformation",
+        "Political Advertising",
+        "United States Politics and Government",
+        "News and News Media",
+        "Censorship",
+        "Freedom of Speech and Expression"
+      ],
+      "org_facet": ["Facebook Inc", "Twitter"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/opinion/07warzelWeb/07warzelWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "J. David Ake/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/opinion/07warzelWeb/07warzelWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "J. David Ake/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/opinion/07warzelWeb/merlin_166502895_590764b7-fdf2-4d25-87e6-6290120d5e06-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "J. David Ake/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/opinion/07warzelWeb/merlin_166502895_590764b7-fdf2-4d25-87e6-6290120d5e06-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "J. David Ake/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/opinion/07warzelWeb/merlin_166502895_590764b7-fdf2-4d25-87e6-6290120d5e06-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "J. David Ake/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Fs3ma3"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Iranian Blood Is on Our Hands, Too",
+      "abstract": "General Suleimani is not the only one who harmed civilians.",
+      "url": "https://www.nytimes.com/2020/01/08/opinion/us-iran-soleimani.html",
+      "byline": "By GERALDINE BROOKS",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T05:00:20-05:00",
+      "created_date": "2020-01-08T05:00:20-05:00",
+      "published_date": "2020-01-08T05:00:20-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Targeted Killings",
+        "United States Defense and Military Forces",
+        "Civilian Casualties"
+      ],
+      "org_facet": [],
+      "per_facet": ["Suleimani, Qassim"],
+      "geo_facet": ["Iran"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/world/08brookes/merlin_166779303_8854483c-adaa-436e-a6ec-26ed33e0f03b-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mourners in Iran gathered around a vehicle carrying the coffin of Maj. Gen. Qassim Suleimani in Kerman, his hometown, on Tuesday.",
+          "copyright": "Atta Kenare/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/world/08brookes/merlin_166779303_8854483c-adaa-436e-a6ec-26ed33e0f03b-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mourners in Iran gathered around a vehicle carrying the coffin of Maj. Gen. Qassim Suleimani in Kerman, his hometown, on Tuesday.",
+          "copyright": "Atta Kenare/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/world/08brookes/merlin_166779303_8854483c-adaa-436e-a6ec-26ed33e0f03b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mourners in Iran gathered around a vehicle carrying the coffin of Maj. Gen. Qassim Suleimani in Kerman, his hometown, on Tuesday.",
+          "copyright": "Atta Kenare/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/world/08brookes/merlin_166779303_8854483c-adaa-436e-a6ec-26ed33e0f03b-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mourners in Iran gathered around a vehicle carrying the coffin of Maj. Gen. Qassim Suleimani in Kerman, his hometown, on Tuesday.",
+          "copyright": "Atta Kenare/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/world/08brookes/merlin_166779303_8854483c-adaa-436e-a6ec-26ed33e0f03b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mourners in Iran gathered around a vehicle carrying the coffin of Maj. Gen. Qassim Suleimani in Kerman, his hometown, on Tuesday.",
+          "copyright": "Atta Kenare/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2QTLlXL"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Before the \u2018Final Solution\u2019 There Was a \u2018Test Killing\u2019",
+      "abstract": "Too few know the history of the Nazi methodical mass murder of disabled people. That is why I write.",
+      "url": "https://www.nytimes.com/2020/01/08/opinion/disability-nazi-eugenics.html",
+      "byline": "By KENNY FRIES",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T05:00:11-05:00",
+      "created_date": "2020-01-08T05:00:11-05:00",
+      "published_date": "2020-01-08T05:00:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Disabilities",
+        "Holocaust and the Nazi Era",
+        "War Crimes, Genocide and Crimes Against Humanity"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Germany"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/opinion/06disability-t4-1/06disability-t4-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The prison in Brandenburg an der Havel, circa 1940s.",
+          "copyright": "Interfoto/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/opinion/06disability-t4-1/06disability-t4-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The prison in Brandenburg an der Havel, circa 1940s.",
+          "copyright": "Interfoto/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/opinion/06disability-t4-1/06disability-t4-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The prison in Brandenburg an der Havel, circa 1940s.",
+          "copyright": "Interfoto/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/opinion/06disability-t4-1/06disability-t4-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The prison in Brandenburg an der Havel, circa 1940s.",
+          "copyright": "Interfoto/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/opinion/06disability-t4-1/06disability-t4-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The prison in Brandenburg an der Havel, circa 1940s.",
+          "copyright": "Interfoto/Alamy"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NlyxZl"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Why Is Mitch McConnell So Afraid of John Bolton?",
+      "abstract": "The Senate must hear his testimony in an impeachment trial.",
+      "url": "https://www.nytimes.com/2020/01/07/opinion/john-bolton-testify.html",
+      "byline": "By NEAL K. KATYAL and GEORGE T. CONWAY III",
+      "item_type": "Article",
+      "updated_date": "2020-01-07T18:27:37-05:00",
+      "created_date": "2020-01-07T15:10:42-05:00",
+      "published_date": "2020-01-07T15:10:42-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Impeachment",
+        "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Republican Party", "Senate"],
+      "per_facet": ["Trump, Donald J", "Bolton, John R", "McConnell, Mitch"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/opinion/07kaytal-conway/07kaytal-conway-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/opinion/07kaytal-conway/07kaytal-conway-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/opinion/07kaytal-conway/merlin_157127517_c128c7f2-b810-431b-94ed-170746542cd3-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/opinion/07kaytal-conway/merlin_157127517_c128c7f2-b810-431b-94ed-170746542cd3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/opinion/07kaytal-conway/merlin_157127517_c128c7f2-b810-431b-94ed-170746542cd3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Qzcwbj"
+    },
+    {
+      "section": "Magazine",
+      "subsection": "",
+      "title": "The Gene Drive Dilemma: We Can Alter Entire Species, but Should We?",
+      "abstract": "A new genetic engineering technology could help eliminate malaria and stave off extinctions \u2014 if humanity decides to unleash it.",
+      "url": "https://www.nytimes.com/2020/01/08/magazine/gene-drive-mosquitoes.html",
+      "byline": "By JENNIFER KAHN",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T05:00:09-05:00",
+      "created_date": "2020-01-08T05:00:09-05:00",
+      "published_date": "2020-01-08T05:00:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Mosquitoes",
+        "Genetic Engineering",
+        "Malaria",
+        "Genetically Modified Food (GMOs)",
+        "Genetics and Heredity"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Africa"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/12/magazine/12mag-genedrives-image-02/12mag-genedrives-image-02-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Three Drosophila melanogaster fruit flies engineered to carry a gene drive. The blue-eyed fly is an early attempt to study the use of a gene drive to create sweeping changes in a fly\u2019s DNA.",
+          "copyright": "Craig Cutler for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/12/magazine/12mag-genedrives-image-02/12mag-genedrives-image-02-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Three Drosophila melanogaster fruit flies engineered to carry a gene drive. The blue-eyed fly is an early attempt to study the use of a gene drive to create sweeping changes in a fly\u2019s DNA.",
+          "copyright": "Craig Cutler for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/12/magazine/12mag-genedrives-image-02/12mag-genedrives-image-02-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Three Drosophila melanogaster fruit flies engineered to carry a gene drive. The blue-eyed fly is an early attempt to study the use of a gene drive to create sweeping changes in a fly\u2019s DNA.",
+          "copyright": "Craig Cutler for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/12/magazine/12mag-genedrives-image-02/12mag-genedrives-image-02-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Three Drosophila melanogaster fruit flies engineered to carry a gene drive. The blue-eyed fly is an early attempt to study the use of a gene drive to create sweeping changes in a fly\u2019s DNA.",
+          "copyright": "Craig Cutler for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/12/magazine/12mag-genedrives-image-02/12mag-genedrives-image-02-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Three Drosophila melanogaster fruit flies engineered to carry a gene drive. The blue-eyed fly is an early attempt to study the use of a gene drive to create sweeping changes in a fly\u2019s DNA.",
+          "copyright": "Craig Cutler for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2T6PMB5"
+    },
+    {
+      "section": "Style",
+      "subsection": "",
+      "title": "Real Men Don\u2019t Rent",
+      "abstract": "There\u2019s only one problem as the growing clothing rental market inches toward offering men\u2019s wear: Guys may not buy in.",
+      "url": "https://www.nytimes.com/2020/01/08/style/men-rent-rental-clothing.html",
+      "byline": "By JESSICA TESTA and JONAH ENGEL BROMWICH",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T10:11:58-05:00",
+      "created_date": "2020-01-08T05:00:17-05:00",
+      "published_date": "2020-01-08T05:00:17-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Fashion and Apparel", "Closets"],
+      "org_facet": ["Rent the Runway"],
+      "per_facet": ["Jonkers, Gert", "Lewis, George Jr (Twin Shadow)"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/09/fashion/08mendontrent-1/08mendontrent-1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by The New York Times; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/09/fashion/08mendontrent-1/08mendontrent-1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by The New York Times; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/09/fashion/08mendontrent-1/08mendontrent-1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 186,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by The New York Times; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/09/fashion/08mendontrent-1/08mendontrent-1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by The New York Times; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/09/fashion/08mendontrent-1/08mendontrent-1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 2000,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by The New York Times; Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/36ynZ0d"
+    },
+    {
+      "section": "Food",
+      "subsection": "",
+      "title": "Current Job: Award-Winning Chef. Education: University of IHOP.",
+      "abstract": "The nation\u2019s chain restaurants don\u2019t reap much critical praise, but many high-end chefs say they got a priceless, practical education there.",
+      "url": "https://www.nytimes.com/2020/01/07/dining/chef-chain-restaurant.html",
+      "byline": "By PRIYA KRISHNA",
+      "item_type": "Article",
+      "updated_date": "2020-01-07T12:47:23-05:00",
+      "created_date": "2020-01-07T12:47:23-05:00",
+      "published_date": "2020-01-07T12:47:23-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Chefs", "Restaurants", "Fast Food Industry"],
+      "org_facet": [
+        "Applebee's International",
+        "IHOP Corp",
+        "Wendy's Co",
+        "Red Lobster Restaurants",
+        "Chipotle Mexican Grill Inc",
+        "Panda Restaurant Group Inc",
+        "Waffle House",
+        "Olive Garden Italian Restaurants"
+      ],
+      "per_facet": ["Dabney, Cassidee", "Derry, Tiffany (Chef)", "Fukushima, Katsuya (Chef)"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/dining/07chain2/00chain02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ms. Dabney said she appreciated the absence of a kitchen hierarchy at Applebee\u2019s, and tries to instill some of that ethos at Blackberry Farm.",
+          "copyright": "Luke Sharrett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/dining/07chain2/00chain02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ms. Dabney said she appreciated the absence of a kitchen hierarchy at Applebee\u2019s, and tries to instill some of that ethos at Blackberry Farm.",
+          "copyright": "Luke Sharrett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/dining/07chain2/merlin_164735781_732a70d2-e7fe-4926-883c-b5020e1991ab-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ms. Dabney said she appreciated the absence of a kitchen hierarchy at Applebee\u2019s, and tries to instill some of that ethos at Blackberry Farm.",
+          "copyright": "Luke Sharrett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/dining/07chain2/07chain2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ms. Dabney said she appreciated the absence of a kitchen hierarchy at Applebee\u2019s, and tries to instill some of that ethos at Blackberry Farm.",
+          "copyright": "Luke Sharrett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/dining/07chain2/merlin_164735781_732a70d2-e7fe-4926-883c-b5020e1991ab-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1367,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ms. Dabney said she appreciated the absence of a kitchen hierarchy at Applebee\u2019s, and tries to instill some of that ethos at Blackberry Farm.",
+          "copyright": "Luke Sharrett for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FqBK5i"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "Cancer Death Rate in U.S. Sees Sharpest One-Year Drop",
+      "abstract": "Breakthrough treatments for lung cancer and melanoma have driven down cancer mortality overall \u2014 and from 2016 to 2017 spurred the largest-ever decline.",
+      "url": "https://www.nytimes.com/2020/01/08/health/cancer-deaths-decline.html",
+      "byline": "By KNVUL SHEIKH",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T10:19:46-05:00",
+      "created_date": "2020-01-08T07:00:08-05:00",
+      "published_date": "2020-01-08T07:00:08-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cancer",
+        "Smoking and Tobacco",
+        "Lung Cancer",
+        "Colon and Colorectal Cancer",
+        "Breast Cancer",
+        "Cervical Cancer",
+        "Prostate Cancer",
+        "Obesity",
+        "your-feed-healthcare"
+      ],
+      "org_facet": ["American Cancer Society"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/science/08CANCER/08CANCER-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colorectal cancer cell. While cancer deaths overall are down, the rate of obesity-related cancers like colon cancer is increasing.",
+          "copyright": "Steve Gschmeissner/Science Source"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/science/08CANCER/08CANCER-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colorectal cancer cell. While cancer deaths overall are down, the rate of obesity-related cancers like colon cancer is increasing.",
+          "copyright": "Steve Gschmeissner/Science Source"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/science/08CANCER/08CANCER-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colorectal cancer cell. While cancer deaths overall are down, the rate of obesity-related cancers like colon cancer is increasing.",
+          "copyright": "Steve Gschmeissner/Science Source"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/science/08CANCER/08CANCER-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colorectal cancer cell. While cancer deaths overall are down, the rate of obesity-related cancers like colon cancer is increasing.",
+          "copyright": "Steve Gschmeissner/Science Source"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/science/08CANCER/merlin_166801614_8e299b92-2b70-4f12-a033-899186a0e1a5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1915,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colorectal cancer cell. While cancer deaths overall are down, the rate of obesity-related cancers like colon cancer is increasing.",
+          "copyright": "Steve Gschmeissner/Science Source"
+        }
+      ],
+      "short_url": "https://nyti.ms/37Oxf0m"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Two Skiers Killed and Five Rescued After Avalanche in Idaho",
+      "abstract": "The area had received 16 to 18 inches of new snow overnight, a local mayor said.",
+      "url": "https://www.nytimes.com/2020/01/07/us/idaho-silver-mountain-avalanche.html",
+      "byline": "By NEIL VIGDOR",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T12:50:37-05:00",
+      "created_date": "2020-01-07T18:22:50-05:00",
+      "published_date": "2020-01-07T18:22:50-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Avalanches", "Skiing", "Accidents and Safety", "Rescues"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Idaho"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/multimedia/07xp-avalanche/07xp-avalanche-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Several people were trapped after an avalanche at Silver Mountain Resort in Kellogg, Idaho, the Shoshone County Sheriff\u2019s Office said.",
+          "copyright": "Kathy Plonka/The Spokesman-Review, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/multimedia/07xp-avalanche/07xp-avalanche-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Several people were trapped after an avalanche at Silver Mountain Resort in Kellogg, Idaho, the Shoshone County Sheriff\u2019s Office said.",
+          "copyright": "Kathy Plonka/The Spokesman-Review, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/multimedia/07xp-avalanche/07xp-avalanche-articleInline.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Several people were trapped after an avalanche at Silver Mountain Resort in Kellogg, Idaho, the Shoshone County Sheriff\u2019s Office said.",
+          "copyright": "Kathy Plonka/The Spokesman-Review, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/multimedia/07xp-avalanche/07xp-avalanche-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Several people were trapped after an avalanche at Silver Mountain Resort in Kellogg, Idaho, the Shoshone County Sheriff\u2019s Office said.",
+          "copyright": "Kathy Plonka/The Spokesman-Review, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/multimedia/07xp-avalanche/07xp-avalanche-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1155,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Several people were trapped after an avalanche at Silver Mountain Resort in Kellogg, Idaho, the Shoshone County Sheriff\u2019s Office said.",
+          "copyright": "Kathy Plonka/The Spokesman-Review, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2T4te3Y"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "The Flu Season May Yet Turn Ugly, C.D.C. Warns",
+      "abstract": "Almost as many people are falling ill as did two years ago, in what was a particularly severe flu season. But this season\u2019s virus is unusual, and it\u2019s too early to tell how dangerous.",
+      "url": "https://www.nytimes.com/2020/01/08/health/flu-season-severity.html",
+      "byline": "By DONALD G. McNEIL Jr.",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T09:30:07-05:00",
+      "created_date": "2020-01-08T09:30:07-05:00",
+      "published_date": "2020-01-08T09:30:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Influenza",
+        "Fever",
+        "Deaths (Fatalities)",
+        "Epidemics",
+        "Vaccination and Immunization"
+      ],
+      "org_facet": ["Centers for Disease Control and Prevention", "Kinsa Inc"],
+      "per_facet": [],
+      "geo_facet": ["Australia", "United States"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/science/08FLU/08FLU-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Administering a flu vaccine in Memphis. This year\u2019s flu season began unusually early, and the Centers for Disease Control and Prevention has reported widespread flu in 46 states.",
+          "copyright": "Jim Weber/Daily Memphian, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/science/08FLU/08FLU-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Administering a flu vaccine in Memphis. This year\u2019s flu season began unusually early, and the Centers for Disease Control and Prevention has reported widespread flu in 46 states.",
+          "copyright": "Jim Weber/Daily Memphian, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/science/08FLU/08FLU-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Administering a flu vaccine in Memphis. This year\u2019s flu season began unusually early, and the Centers for Disease Control and Prevention has reported widespread flu in 46 states.",
+          "copyright": "Jim Weber/Daily Memphian, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/science/08FLU/08FLU-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Administering a flu vaccine in Memphis. This year\u2019s flu season began unusually early, and the Centers for Disease Control and Prevention has reported widespread flu in 46 states.",
+          "copyright": "Jim Weber/Daily Memphian, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/science/08FLU/08FLU-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Administering a flu vaccine in Memphis. This year\u2019s flu season began unusually early, and the Centers for Disease Control and Prevention has reported widespread flu in 46 states.",
+          "copyright": "Jim Weber/Daily Memphian, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2T5Bvou"
+    },
+    {
+      "section": "Arts",
+      "subsection": "",
+      "title": "Robert Caro\u2019s Papers Headed to New-York Historical Society",
+      "abstract": "After decades of dogged (and still unfinished) efforts to chronicle every detail about Lyndon B. Johnson, the master biographer\u2019s vast paper trail has found a permanent home.",
+      "url": "https://www.nytimes.com/2020/01/08/arts/robert-caro-new-york-historical-society.html",
+      "byline": "By JENNIFER SCHUESSLER",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T09:15:18-05:00",
+      "created_date": "2020-01-08T08:00:18-05:00",
+      "published_date": "2020-01-08T08:00:18-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Books and Literature", "Writing and Writers", "Archives and Records"],
+      "org_facet": ["New-York Historical Society"],
+      "per_facet": ["Caro, Robert A", "Johnson, Lyndon Baines", "Moses, Robert"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/arts/08caro1/08caro1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert Caro in his office in Manhattan this month.",
+          "copyright": "Landon Speers for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/arts/08caro1/08caro1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert Caro in his office in Manhattan this month.",
+          "copyright": "Landon Speers for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/arts/08caro1/08caro1-articleInline.jpg",
+          "format": "Normal",
+          "height": 237,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert Caro in his office in Manhattan this month.",
+          "copyright": "Landon Speers for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/arts/08caro1/08caro1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert Caro in his office in Manhattan this month.",
+          "copyright": "Landon Speers for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/arts/08caro1/08caro1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert Caro in his office in Manhattan this month.",
+          "copyright": "Landon Speers for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2QyHBMb"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Two Milwaukee Children Shot After Throwing Snowballs at Cars, Police Say",
+      "abstract": "The police were searching for a suspect, while an alderman called the violence \u201ccompletely senseless.\u201d",
+      "url": "https://www.nytimes.com/2020/01/07/us/milwaukee-snowball-shooting.html",
+      "byline": "By DERRICK BRYSON TAYLOR",
+      "item_type": "Article",
+      "updated_date": "2020-01-07T16:28:44-05:00",
+      "created_date": "2020-01-07T14:53:19-05:00",
+      "published_date": "2020-01-07T14:53:19-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Children and Childhood",
+        "Murders, Attempted Murders and Homicides",
+        "snowball fights"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Milwaukee (Wis)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/multimedia/07xp-snowballSUB/07xp-snowballSUB-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Milwaukee driver was accused of firing shots at children who were throwing snowballs at cars on Saturday.",
+          "copyright": "Radharc Images/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/multimedia/07xp-snowballSUB/07xp-snowballSUB-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Milwaukee driver was accused of firing shots at children who were throwing snowballs at cars on Saturday.",
+          "copyright": "Radharc Images/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/multimedia/07xp-snowballSUB/07xp-snowballSUB-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Milwaukee driver was accused of firing shots at children who were throwing snowballs at cars on Saturday.",
+          "copyright": "Radharc Images/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/multimedia/07xp-snowballSUB/07xp-snowballSUB-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Milwaukee driver was accused of firing shots at children who were throwing snowballs at cars on Saturday.",
+          "copyright": "Radharc Images/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/multimedia/07xp-snowballSUB/07xp-snowballSUB-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Milwaukee driver was accused of firing shots at children who were throwing snowballs at cars on Saturday.",
+          "copyright": "Radharc Images/Alamy"
+        }
+      ],
+      "short_url": "https://nyti.ms/36xyrp1"
+    },
+    {
+      "section": "Business",
+      "subsection": "",
+      "title": "Carlos Ghosn Speaks Out: \u2018I Did Not Escape Justice. I Fled Injustice.\u2019",
+      "abstract": "In Beirut, the fugitive ex-Nissan chairman made his first public comments since he fled Japan.",
+      "url": "https://www.nytimes.com/2020/01/08/business/carlos-ghosn-beirut.html",
+      "byline": "By DAVID YAFFE-BELLANY, BEN DOOLEY and VIVIAN YEE",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T12:47:06-05:00",
+      "created_date": "2020-01-08T00:00:09-05:00",
+      "published_date": "2020-01-08T00:00:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Automobiles"],
+      "org_facet": ["Nissan Motor Co"],
+      "per_facet": ["Ghosn, Carlos"],
+      "geo_facet": ["Beirut (Lebanon)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08ghosn-briefing-sub/08ghosn-briefing-sub-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carlos Ghosn, former Nissan chairman, at a news conference in Beirut, Lebanon, on Wednesday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08ghosn-briefing-sub/08ghosn-briefing-sub-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carlos Ghosn, former Nissan chairman, at a news conference in Beirut, Lebanon, on Wednesday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08ghosn-briefing-sub/08ghosn-briefing-sub-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carlos Ghosn, former Nissan chairman, at a news conference in Beirut, Lebanon, on Wednesday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08ghosn-briefing-sub/08ghosn-briefing-sub-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carlos Ghosn, former Nissan chairman, at a news conference in Beirut, Lebanon, on Wednesday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/world/08ghosn-briefing-sub/08ghosn-briefing-sub-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carlos Ghosn, former Nissan chairman, at a news conference in Beirut, Lebanon, on Wednesday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2T1ZrJd"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "How Forced Labor in Eritrea Is Linked to E.U.-Funded Projects",
+      "abstract": "As it aims to stem the flow of migrants from Africa and bring about change in a dictatorship, the European Union is spending millions on projects built by people in forced conscription.",
+      "url": "https://www.nytimes.com/2020/01/08/world/europe/conscription-eritrea-eu.html",
+      "byline": "By MATINA STEVIS-GRIDNEFF",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T03:00:10-05:00",
+      "created_date": "2020-01-08T03:00:10-05:00",
+      "published_date": "2020-01-08T03:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Forced Labor",
+        "Politics and Government",
+        "Human Rights and Human Rights Violations",
+        "Immigration and Emigration",
+        "Middle East and Africa Migrant Crisis"
+      ],
+      "org_facet": ["European Union"],
+      "per_facet": ["Afwerki, Isaias"],
+      "geo_facet": ["Eritrea"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/world/07eu-eritrea/merlin_148526130_c13ffac8-6d2e-4a06-be7c-349dd8e21f19-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A wooden boat used by mostly Eritrean migrants, abandoned off the Libyan coast after they were rescued in 2018.",
+          "copyright": "Santi Palacios/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/world/07eu-eritrea/merlin_148526130_c13ffac8-6d2e-4a06-be7c-349dd8e21f19-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A wooden boat used by mostly Eritrean migrants, abandoned off the Libyan coast after they were rescued in 2018.",
+          "copyright": "Santi Palacios/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/world/07eu-eritrea/merlin_148526130_c13ffac8-6d2e-4a06-be7c-349dd8e21f19-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A wooden boat used by mostly Eritrean migrants, abandoned off the Libyan coast after they were rescued in 2018.",
+          "copyright": "Santi Palacios/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/world/07eu-eritrea/07eu-eritrea-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A wooden boat used by mostly Eritrean migrants, abandoned off the Libyan coast after they were rescued in 2018.",
+          "copyright": "Santi Palacios/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/world/07eu-eritrea/merlin_148526130_c13ffac8-6d2e-4a06-be7c-349dd8e21f19-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A wooden boat used by mostly Eritrean migrants, abandoned off the Libyan coast after they were rescued in 2018.",
+          "copyright": "Santi Palacios/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2N7vrYu"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "A Court Said Au Pairs Deserve Minimum Wage. Some Families are Protesting.",
+      "abstract": "A court found that au pairs were entitled to rights of domestic workers in Massachusetts. Families said they did not know how they would pay. Some au pairs were elated.",
+      "url": "https://www.nytimes.com/2020/01/08/us/au-pair-massachusetts-ruling.html",
+      "byline": "By KATE TAYLOR",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T12:13:04-05:00",
+      "created_date": "2020-01-08T05:00:21-05:00",
+      "published_date": "2020-01-08T05:00:21-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Child Care",
+        "Wages and Salaries",
+        "Families and Family Life",
+        "Decisions and Verdicts"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Massachusetts"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/us/07AUPAIR-statehouse/07AUPAIR-statehouse-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some families in Massachusetts planned to lobby for new state legislation after a recent court ruling that au pairs should be treated as employees entitled to minimum wage.",
+          "copyright": "Elise Amendola/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/us/07AUPAIR-statehouse/07AUPAIR-statehouse-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some families in Massachusetts planned to lobby for new state legislation after a recent court ruling that au pairs should be treated as employees entitled to minimum wage.",
+          "copyright": "Elise Amendola/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/us/07AUPAIR-statehouse/merlin_151822158_4b1e499f-01f1-43bd-a3c8-9fda9fde517f-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some families in Massachusetts planned to lobby for new state legislation after a recent court ruling that au pairs should be treated as employees entitled to minimum wage.",
+          "copyright": "Elise Amendola/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/us/07AUPAIR-statehouse/07AUPAIR-statehouse-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some families in Massachusetts planned to lobby for new state legislation after a recent court ruling that au pairs should be treated as employees entitled to minimum wage.",
+          "copyright": "Elise Amendola/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/07/us/07AUPAIR-statehouse/merlin_151822158_4b1e499f-01f1-43bd-a3c8-9fda9fde517f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1355,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some families in Massachusetts planned to lobby for new state legislation after a recent court ruling that au pairs should be treated as employees entitled to minimum wage.",
+          "copyright": "Elise Amendola/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/37Kf8ZG"
+    },
+    {
+      "section": "Business",
+      "subsection": "Economy",
+      "title": "American Consumers, Not China, Are Paying for Trump\u2019s Tariffs",
+      "abstract": "New York Fed and academic researchers found that U.S. consumers and companies have borne the brunt of the president\u2019s trade war.",
+      "url": "https://www.nytimes.com/2020/01/06/business/economy/trade-war-tariffs.html",
+      "byline": "By JEANNA SMIALEK and ANA SWANSON",
+      "item_type": "Article",
+      "updated_date": "2020-01-07T00:27:27-05:00",
+      "created_date": "2020-01-06T13:42:29-05:00",
+      "published_date": "2020-01-06T13:42:29-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "International Trade and World Market",
+        "Customs (Tariff)",
+        "United States Economy"
+      ],
+      "org_facet": ["Federal Reserve System"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/business/06DC-TARIFFS-01-MJ/merlin_161335704_8530112f-09e8-4cef-b203-eb6969521085-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New research finds that American businesses and consumers are paying the price for President Trump\u2019s tariffs on Chinese goods.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/business/06DC-TARIFFS-01-MJ/merlin_161335704_8530112f-09e8-4cef-b203-eb6969521085-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New research finds that American businesses and consumers are paying the price for President Trump\u2019s tariffs on Chinese goods.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/business/06DC-TARIFFS-01-MJ/merlin_161335704_8530112f-09e8-4cef-b203-eb6969521085-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New research finds that American businesses and consumers are paying the price for President Trump\u2019s tariffs on Chinese goods.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/business/06DC-TARIFFS-01-MJ/06DC-TARIFFS-01-MJ-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New research finds that American businesses and consumers are paying the price for President Trump\u2019s tariffs on Chinese goods.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/business/06DC-TARIFFS-01-MJ/merlin_161335704_8530112f-09e8-4cef-b203-eb6969521085-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New research finds that American businesses and consumers are paying the price for President Trump\u2019s tariffs on Chinese goods.",
+          "copyright": "Jeenah Moon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MX7djG"
+    },
+    {
+      "section": "Smarter Living",
+      "subsection": "",
+      "title": "Go Ahead and Complain. It Might Be Good for You.",
+      "abstract": "A mantra to embrace: \u201cThis sucks I\u2019m unhappy with what\u2019s going on.\u201d",
+      "url": "https://www.nytimes.com/2020/01/06/smarter-living/how-to-complain-.html",
+      "byline": "By MICAELA MARINI HIGGS",
+      "item_type": "Article",
+      "updated_date": "2020-01-07T17:26:38-05:00",
+      "created_date": "2020-01-06T23:57:33-05:00",
+      "published_date": "2020-01-06T23:57:33-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/12/12/smarter-living/00sl-complain/00sl-complain-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Angus Greig"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/12/smarter-living/00sl-complain/00sl-complain-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Angus Greig"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/12/smarter-living/00sl-complain/00sl-complain-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Angus Greig"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/12/smarter-living/00sl-complain/00sl-complain-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Angus Greig"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/12/smarter-living/00sl-complain/00sl-complain-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1177,
+          "width": 1760,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Angus Greig"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ZV9PUF"
+    },
+    {
+      "section": "Smarter Living",
+      "subsection": "Wirecutter",
+      "title": "What to Do if You Overspent During the Holidays",
+      "abstract": "Avoid incidental debt and build credit quickly with these four tricks for staying accountable with your spending.",
+      "url": "https://www.nytimes.com/2020/01/06/smarter-living/wirecutter/what-to-do-if-you-overspent-during-the-holidays.html",
+      "byline": "By TAYLOR TEPPER",
+      "item_type": "Article",
+      "updated_date": "2020-01-06T17:30:04-05:00",
+      "created_date": "2020-01-06T17:30:04-05:00",
+      "published_date": "2020-01-06T17:30:04-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Credit and Debt",
+        "Shopping and Retail",
+        "Interest Rates",
+        "Credit Cards",
+        "New Year",
+        "your-feed-wirecutter"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/12/13/smarter-living/00wc_overspending/00wc_overspending-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yann Bastard"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/13/smarter-living/00wc_overspending/00wc_overspending-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yann Bastard"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/13/smarter-living/00wc_overspending/00wc_overspending-articleInline.png",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yann Bastard"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/13/smarter-living/00wc_overspending/00wc_overspending-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yann Bastard"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/13/smarter-living/00wc_overspending/00wc_overspending-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yann Bastard"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SXLoUY"
+    },
+    {
+      "section": "Smarter Living",
+      "subsection": "",
+      "title": "Dogs in Cars, Getting There Safely",
+      "abstract": "Like any family member, they need to be protected in case of a crash, but also should not distract the driver. Face licking is discouraged.",
+      "url": "https://www.nytimes.com/2019/12/17/smarter-living/dogs-cars-safe-travel.html",
+      "byline": "By NORMAN MAYERSOHN",
+      "item_type": "Article",
+      "updated_date": "2019-12-17T19:30:07-05:00",
+      "created_date": "2019-12-17T19:30:07-05:00",
+      "published_date": "2019-12-17T19:30:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Dogs", "Automobile Safety Features and Defects"],
+      "org_facet": ["Center for Pet Safety"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/03/multimedia/03help/00sl-pets-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This may look cute, but don&rsquo;t let your pup do this. It&rsquo;s not safe.",
+          "copyright": "Jaromir Chalabala/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/03/multimedia/03help/00sl-pets-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This may look cute, but don&rsquo;t let your pup do this. It&rsquo;s not safe.",
+          "copyright": "Jaromir Chalabala/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/03/multimedia/03help/00sl-pets-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This may look cute, but don&rsquo;t let your pup do this. It&rsquo;s not safe.",
+          "copyright": "Jaromir Chalabala/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/03/multimedia/03help/00sl-pets-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This may look cute, but don&rsquo;t let your pup do this. It&rsquo;s not safe.",
+          "copyright": "Jaromir Chalabala/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/03/multimedia/03help/00sl-pets-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This may look cute, but don&rsquo;t let your pup do this. It&rsquo;s not safe.",
+          "copyright": "Jaromir Chalabala/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2r1PRdI"
+    },
+    {
+      "section": "Arts",
+      "subsection": "",
+      "title": "Bob Wade, Sculptor of the Outlandishly Large, Dies at 76",
+      "abstract": "Known as Daddy-O, he created roadside, streetside and top-of-the-roof attractions in Texas and elsewhere.",
+      "url": "https://www.nytimes.com/2020/01/07/arts/bob-wade-dead.html",
+      "byline": "By RICHARD SANDOMIR",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T11:10:42-05:00",
+      "created_date": "2020-01-07T19:14:06-05:00",
+      "published_date": "2020-01-07T19:14:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Deaths (Obituaries)", "Art", "Sculpture"],
+      "org_facet": ["Lone Star Cafe"],
+      "per_facet": ["Wade, Bob (1943-2019)"],
+      "geo_facet": ["Texas"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/obituaries/06wade3/06wade3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The singer Rattlesnake Annie performing in the late 1970s atop Mr. Wade\u2019s iguana on the roof of the Lone Star Cafe.",
+          "copyright": "via Lisa Wade"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/obituaries/06wade3/06wade3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The singer Rattlesnake Annie performing in the late 1970s atop Mr. Wade\u2019s iguana on the roof of the Lone Star Cafe.",
+          "copyright": "via Lisa Wade"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/obituaries/06wade3/06wade3-articleInline.jpg",
+          "format": "Normal",
+          "height": 162,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The singer Rattlesnake Annie performing in the late 1970s atop Mr. Wade\u2019s iguana on the roof of the Lone Star Cafe.",
+          "copyright": "via Lisa Wade"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/obituaries/06wade3/06wade3-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The singer Rattlesnake Annie performing in the late 1970s atop Mr. Wade\u2019s iguana on the roof of the Lone Star Cafe.",
+          "copyright": "via Lisa Wade"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/06/obituaries/06wade3/06wade3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1749,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The singer Rattlesnake Annie performing in the late 1970s atop Mr. Wade\u2019s iguana on the roof of the Lone Star Cafe.",
+          "copyright": "via Lisa Wade"
+        }
+      ],
+      "short_url": "https://nyti.ms/2tHwNSQ"
+    },
+    {
+      "section": "Books",
+      "subsection": "",
+      "title": "Olivia Gatwood, a Poet With a YouTube Following, Branches Out",
+      "abstract": "The writer, whose performances have garnered hundreds of thousands of views online, explores her obsession with true crime and fear of male violence in her work.",
+      "url": "https://www.nytimes.com/2020/01/07/books/olivia-gatwood-poet-life-of-the-party.html",
+      "byline": "By ADRIANA BALSAMO",
+      "item_type": "Article",
+      "updated_date": "2020-01-07T05:00:15-05:00",
+      "created_date": "2020-01-07T05:00:15-05:00",
+      "published_date": "2020-01-07T05:00:15-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Poetry and Poets",
+        "Books and Literature",
+        "Women and Girls",
+        "Writing and Writers",
+        "Life of the Party (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Gatwood, Olivia"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/12/30/books/30Gatwood1/30Gatwood1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Gatwood, shown during a performance in Brooklyn, has cultivated an audience with poems such as \u201cManic Pixie Dream Girl\u201d and \u201cOde to My Bitch Face.\u201d",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/30/books/30Gatwood1/30Gatwood1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Gatwood, shown during a performance in Brooklyn, has cultivated an audience with poems such as \u201cManic Pixie Dream Girl\u201d and \u201cOde to My Bitch Face.\u201d",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/30/books/30Gatwood1/merlin_161427948_538f412d-5028-4414-afb4-a9dc1c9f2c8f-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Gatwood, shown during a performance in Brooklyn, has cultivated an audience with poems such as \u201cManic Pixie Dream Girl\u201d and \u201cOde to My Bitch Face.\u201d",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/30/books/30Gatwood1/30Gatwood1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Gatwood, shown during a performance in Brooklyn, has cultivated an audience with poems such as \u201cManic Pixie Dream Girl\u201d and \u201cOde to My Bitch Face.\u201d",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/12/30/books/30Gatwood1/merlin_161427948_538f412d-5028-4414-afb4-a9dc1c9f2c8f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Gatwood, shown during a performance in Brooklyn, has cultivated an audience with poems such as \u201cManic Pixie Dream Girl\u201d and \u201cOde to My Bitch Face.\u201d",
+          "copyright": "An Rong Xu for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/39KONfV"
+    },
+    {
+      "section": "Sports",
+      "subsection": "Pro Basketball",
+      "title": "The Knicks Were 0-for-Los Angeles, but There May Be Signs of Hope",
+      "abstract": "There\u2019s Barrett and Robinson and Ntilikina and Randle. And a little less despair than usual.",
+      "url": "https://www.nytimes.com/2020/01/08/sports/basketball/knicks-lakers-clippers.html",
+      "byline": "By MICHAEL POWELL",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T11:53:11-05:00",
+      "created_date": "2020-01-08T08:04:04-05:00",
+      "published_date": "2020-01-08T08:04:04-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Basketball"],
+      "org_facet": ["New York Knicks", "Los Angeles Lakers"],
+      "per_facet": ["James, LeBron"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/sports/08powellWEB1/08powellWEB1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Lakers\u2019 Kyle Kuzma was guarded by R.J. Barrett, far right, and Mitchell Robinson, center, on Tuesday night in Los Angeles.",
+          "copyright": "Sean M. Haffey/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/sports/08powellWEB1/08powellWEB1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Lakers\u2019 Kyle Kuzma was guarded by R.J. Barrett, far right, and Mitchell Robinson, center, on Tuesday night in Los Angeles.",
+          "copyright": "Sean M. Haffey/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/sports/08powellWEB1/merlin_166819659_30a13c01-1ff8-43fd-95bb-7acc269ac2fc-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Lakers\u2019 Kyle Kuzma was guarded by R.J. Barrett, far right, and Mitchell Robinson, center, on Tuesday night in Los Angeles.",
+          "copyright": "Sean M. Haffey/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/sports/08powellWEB1/08powellWEB1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Lakers\u2019 Kyle Kuzma was guarded by R.J. Barrett, far right, and Mitchell Robinson, center, on Tuesday night in Los Angeles.",
+          "copyright": "Sean M. Haffey/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/sports/08powellWEB1/merlin_166819659_30a13c01-1ff8-43fd-95bb-7acc269ac2fc-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1387,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Lakers\u2019 Kyle Kuzma was guarded by R.J. Barrett, far right, and Mitchell Robinson, center, on Tuesday night in Los Angeles.",
+          "copyright": "Sean M. Haffey/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/37GjJvQ"
+    },
+    {
+      "section": "Books",
+      "subsection": "Book Review",
+      "title": "How Much Power Do Women Want? A Novel Circles the Question",
+      "abstract": "Miranda Popkey\u2019s dialogue-rich debut, \u201cTopics of Conversation,\u201d poses unanswerable questions of female autonomy and consent, in the manner of Rachel Cusk or Sally Rooney.",
+      "url": "https://www.nytimes.com/2020/01/07/books/review/miranda-popkey-topics-of-conversation.html",
+      "byline": "By ANTONIA HITCHENS",
+      "item_type": "Article",
+      "updated_date": "2020-01-07T11:02:56-05:00",
+      "created_date": "2020-01-07T05:00:07-05:00",
+      "published_date": "2020-01-07T05:00:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Books and Literature", "Topics of Conversation: A Novel (Book)"],
+      "org_facet": [],
+      "per_facet": ["Popkey, Miranda"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/19/books/review/19Hitchens1/19Hitchens1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Miranda Popkey\u2019s narrator articulates a sustained, Sally Rooney-esque brooding on our simultaneous but conflicting yearnings for autonomy and \u201cbeing a vessel for the desire of others.\u201d",
+          "copyright": "Elena Seibert"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/19/books/review/19Hitchens1/19Hitchens1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Miranda Popkey\u2019s narrator articulates a sustained, Sally Rooney-esque brooding on our simultaneous but conflicting yearnings for autonomy and \u201cbeing a vessel for the desire of others.\u201d",
+          "copyright": "Elena Seibert"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/19/books/review/19Hitchens1/19Hitchens1-articleInline.jpg",
+          "format": "Normal",
+          "height": 275,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Miranda Popkey\u2019s narrator articulates a sustained, Sally Rooney-esque brooding on our simultaneous but conflicting yearnings for autonomy and \u201cbeing a vessel for the desire of others.\u201d",
+          "copyright": "Elena Seibert"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/19/books/review/19Hitchens1/19Hitchens1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Miranda Popkey\u2019s narrator articulates a sustained, Sally Rooney-esque brooding on our simultaneous but conflicting yearnings for autonomy and \u201cbeing a vessel for the desire of others.\u201d",
+          "copyright": "Elena Seibert"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/19/books/review/19Hitchens1/19Hitchens1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Miranda Popkey\u2019s narrator articulates a sustained, Sally Rooney-esque brooding on our simultaneous but conflicting yearnings for autonomy and \u201cbeing a vessel for the desire of others.\u201d",
+          "copyright": "Elena Seibert"
+        }
+      ],
+      "short_url": "https://nyti.ms/2T1TSdI"
+    },
+    {
+      "section": "Fashion",
+      "subsection": "",
+      "title": "Brioni Girds for Men\u2019s Wear Combat",
+      "abstract": "As it celebrated its 75th anniversary, the Italian tailoring brand pitched itself to Next Gen consumers.",
+      "url": "https://www.nytimes.com/2020/01/08/fashion/brioni-kering-pitti-uomo-fall-2020-mens-wear.html",
+      "byline": "By GUY TREBAY",
+      "item_type": "Article",
+      "updated_date": "2020-01-08T09:32:22-05:00",
+      "created_date": "2020-01-08T09:08:11-05:00",
+      "published_date": "2020-01-08T09:08:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Fashion and Apparel", "Suits (Apparel)", "your-feed-fashion"],
+      "org_facet": ["Brioni (Fashion Label)", "Kering SA"],
+      "per_facet": ["Cucinelli, Brunello", "Pinault, Francois-Henri"],
+      "geo_facet": ["Florence (Italy)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/fashion/08PITTI-REVIEW-Brioni-1/08PITTI-REVIEW-Brioni-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brioni\u2019s 75th anniversary celebration on Tuesday in Florence, Italy, included musicians wearing the fashion house\u2019s styles. From left, the cellists Andreas Brantelid wearing a Virgilio evening jacket with shawl collar and his father, Ingemar Brantelid, in a double-breasted evening jacket in silk.",
+          "copyright": "Clara Vannucci for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/fashion/08PITTI-REVIEW-Brioni-1/08PITTI-REVIEW-Brioni-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brioni\u2019s 75th anniversary celebration on Tuesday in Florence, Italy, included musicians wearing the fashion house\u2019s styles. From left, the cellists Andreas Brantelid wearing a Virgilio evening jacket with shawl collar and his father, Ingemar Brantelid, in a double-breasted evening jacket in silk.",
+          "copyright": "Clara Vannucci for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/fashion/08PITTI-REVIEW-Brioni-1/merlin_166805862_86800099-6bc3-428c-b030-cbe5793a8e0f-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brioni\u2019s 75th anniversary celebration on Tuesday in Florence, Italy, included musicians wearing the fashion house\u2019s styles. From left, the cellists Andreas Brantelid wearing a Virgilio evening jacket with shawl collar and his father, Ingemar Brantelid, in a double-breasted evening jacket in silk.",
+          "copyright": "Clara Vannucci for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/fashion/08PITTI-REVIEW-Brioni-1/08PITTI-REVIEW-Brioni-1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brioni\u2019s 75th anniversary celebration on Tuesday in Florence, Italy, included musicians wearing the fashion house\u2019s styles. From left, the cellists Andreas Brantelid wearing a Virgilio evening jacket with shawl collar and his father, Ingemar Brantelid, in a double-breasted evening jacket in silk.",
+          "copyright": "Clara Vannucci for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/fashion/08PITTI-REVIEW-Brioni-1/merlin_166805862_86800099-6bc3-428c-b030-cbe5793a8e0f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brioni\u2019s 75th anniversary celebration on Tuesday in Florence, Italy, included musicians wearing the fashion house\u2019s styles. From left, the cellists Andreas Brantelid wearing a Virgilio evening jacket with shawl collar and his father, Ingemar Brantelid, in a double-breasted evening jacket in silk.",
+          "copyright": "Clara Vannucci for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/37QHeCn"
+    }
+  ]
+}

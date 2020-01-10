@@ -21,7 +21,9 @@
   "dependencies": {
     "@upstatement/puppy": "^0.5.0",
     "@upstatement/upbase": "^1.0.0",
-    "jquery": "^3.3.1"
+    "dayjs": "^1.8.19",
+    "jquery": "^3.3.1",
+    "no-op": "^1.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",

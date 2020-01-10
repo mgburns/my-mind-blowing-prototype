@@ -1,0 +1,15 @@
+---
+title: NYT Top Stories
+---
+{% extends "@puppy/layouts/base.twig" %}
+
+{% block content %}
+<h1>NYT Top Stories</h1>
+
+<ul>
+{% for story in site.data['top-stories.json'].results|slice(0, 5) %}
+<li><date>{{ dayjs(story.published_date).format('MMMM D, YYYY') }}</date>&mdash;<a href="{{ story.url }}">{{ story.title }}</a></li>
+{% endfor %}
+</ul>
+
+{% endblock %}

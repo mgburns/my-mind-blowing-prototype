@@ -34,6 +34,12 @@ const html = async function() {
   const twig = $.twig({
     namespaces: { puppy: 'src/templates' },
     useFileContents: true,
+    functions: [
+      {
+        name: 'dayjs',
+        func: require('dayjs'),
+      },
+    ],
   });
 
   const minify = $.if(
