@@ -51,3 +51,11 @@
         },
         ],
     });
+
+5. Deploy to Netlify
+
+    npm install -g netlify-cli
+    netlify init
+    netlify deploy
+
+    Add the badge to the README
