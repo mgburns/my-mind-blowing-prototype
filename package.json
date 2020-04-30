@@ -22,7 +22,7 @@
     "@upstatement/puppy": "^0.5.0",
     "@upstatement/upbase": "^1.0.0",
     "dayjs": "^1.8.19",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "no-op": "^1.0.3"
   },
   "devDependencies": {
